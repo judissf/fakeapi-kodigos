@@ -4,61 +4,189 @@
             "id": 1,
             "name": "Arroz Integral",
             "description": "Arroz 100% integral, selecionado e em grãos finos",
-            "qtd": 400
+            "qtd": 400,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 1,
+                    "value": 1000
+                },
+                {
+                    "id": 2,
+                    "idCompany": 2,
+                    "value": 1200
+                },
+                {
+                    "id": 3,
+                    "idCompany": 12,
+                    "value": 850
+                },
+                {
+                    "id": 4,
+                    "idCompany": 2,
+                    "value": 600
+                }
+            ]
         },
         {
             "id": 2,
             "name": "Arroz Parboilizado",
             "description": "Arroz rico em fibras e vitaminas",
-            "qtd": 300
+            "qtd": 300,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 1,
+                    "value": 900
+                },
+                {
+                    "id": 2,
+                    "idCompany": 12,
+                    "value": 850
+                },
+                {
+                    "id": 3,
+                    "idCompany": 8,
+                    "value": 1100
+                }
+            ]
         },
         {
             "id": 3,
             "name": "Arroz Branco",
             "description": "Arroz tradicional",
-            "qtd": 700
+            "qtd": 700,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 9,
+                    "value": 500
+                },
+                {
+                    "id": 2,
+                    "idCompany": 11,
+                    "value": 700
+                },
+                {
+                    "id": 3,
+                    "idCompany": 3,
+                    "value": 400
+                },
+            ]
         },
         {
             "id": 4,
             "name": "Café Regional",
             "description": "Café da terra de Manaus",
-            "qtd": 200
+            "qtd": 200,
+            "prodCompany": []
         },
         {
             "id": 5,
             "name": "Café Nacional",
             "description": "Café do Brasil",
-            "qtd": 300
+            "qtd": 300,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 5,
+                    "value": 900
+                },
+                {
+                    "id": 2,
+                    "idCompany": 13,
+                    "value": 1000
+                },
+            ]
         },
         {
             "id": 6,
             "name": "Açúcar Comum",
             "description": "Açúcar refinado do tipo comum",
-            "qtd": 450
+            "qtd": 450,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 11,
+                    "value": 1350
+                },
+                {
+                    "id": 2,
+                    "idCompany": 12,
+                    "value": 900
+                },
+                {
+                    "id": 3,
+                    "idCompany": 9,
+                    "value": 600
+                },
+                {
+                    "id": 4,
+                    "idCompany": 10,
+                    "value": 700
+                },
+            ]
         },
         {
             "id": 7,
             "name": "Açúcar Mascavo",
             "description": "Açúcar petrificado de cor marrom",
-            "qtd": 500
+            "qtd": 500,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 11,
+                    "value": 2000
+                },
+                {
+                    "id": 2,
+                    "idCompany": 8,
+                    "value": 2200
+                },
+                {
+                    "id": 3,
+                    "idCompany": 9,
+                    "value": 2500
+                },
+                {
+                    "id": 4,
+                    "idCompany": 12,
+                    "value": 1800
+                },
+            ]
         },
         {
             "id": 8,
             "name": "Feijão Carioca",
             "description": "Feijão específico para fazer baião",
-            "qtd": 200
+            "qtd": 200,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 3,
+                    "value": 600
+                }
+            ]
         },
         {
             "id": 9,
             "name": "Feijão Preto",
             "description": "Feijão específico para fazer feijoada",
-            "qtd": 250
+            "qtd": 250,
+            "prodCompany": []
         },
         {
             "id": 10,
             "name": "Sal",
             "description": "Sal comum",
-            "qtd": 250
+            "qtd": 250,
+            "prodCompany": [
+                {
+                    "id": 1,
+                    "idCompany": 5,
+                    "value": 380
+                }
+            ]
         }
     ],
     "companies": [
@@ -113,140 +241,6 @@
         {
             "id": 13,
             "company": "Santa Clara"
-        }
-    ],
-    "prodCompany": [
-        {
-            "id": 1,
-            "idProduct": 1,
-            "idCompany": 1,
-            "value": 1000
-        },
-        {
-            "id": 2,
-            "idProduct": 1,
-            "idCompany": 2,
-            "value": 1200
-        },
-        {
-            "id": 3,
-            "idProduct": 1,
-            "idCompany": 12,
-            "value": 850
-        },
-        {
-            "id": 4,
-            "idProduct": 2,
-            "idCompany": 2,
-            "value": 600
-        },
-        {
-            "id": 5,
-            "idProduct": 2,
-            "idCompany": 1,
-            "value": 900
-        },
-        {
-            "id": 6,
-            "idProduct": 2,
-            "idCompany": 12,
-            "value": 850
-        },
-        {
-            "id": 7,
-            "idProduct": 2,
-            "idCompany": 8,
-            "value": 1100
-        },
-        {
-            "id": 8,
-            "idProduct": 3,
-            "idCompany": 9,
-            "value": 500
-        },
-        {
-            "id": 9,
-            "idProduct": 3,
-            "idCompany": 11,
-            "value": 700
-        },
-        {
-            "id": 10,
-            "idProduct": 3,
-            "idCompany": 3,
-            "value": 400
-        },
-        {
-            "id": 11,
-            "idProduct": 5,
-            "idCompany": 5,
-            "value": 900
-        },
-        {
-            "id": 12,
-            "idProduct": 5,
-            "idCompany": 13,
-            "value": 1000
-        },
-        {
-            "id": 13,
-            "idProduct": 6,
-            "idCompany": 11,
-            "value": 1350
-        },
-        {
-            "id": 14,
-            "idProduct": 6,
-            "idCompany": 12,
-            "value": 900
-        },
-        {
-            "id": 15,
-            "idProduct": 6,
-            "idCompany": 9,
-            "value": 600
-        },
-        {
-            "id": 16,
-            "idProduct": 6,
-            "idCompany": 10,
-            "value": 700
-        },
-        {
-            "id": 17,
-            "idProduct": 7,
-            "idCompany": 11,
-            "value": 2000
-        },
-        {
-            "id": 18,
-            "idProduct": 7,
-            "idCompany": 8,
-            "value": 2200
-        },
-        {
-            "id": 19,
-            "idProduct": 7,
-            "idCompany": 9,
-            "value": 2500
-        },
-        {
-            "id": 20,
-            "idProduct": 7,
-            "idCompany": 12,
-            "value": 1800
-        },
-        {
-            "id": 21,
-            "idProduct": 8,
-            "idCompany": 3,
-            "value": 600
-        },
-        {
-            "id": 22,
-            "idProduct": 10,
-            "idCompany": 5,
-            "value": 380
         }
     ]
 }
