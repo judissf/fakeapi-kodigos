@@ -1,0 +1,230 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "name": "Arroz Integral",
+            "description": "Arroz 100% integral, selecionado e em grãos finos",
+            "qtd": 400
+        },
+        {
+            "id": 2,
+            "name": "Arroz Parboilizado",
+            "description": "Arroz rico em fibras e vitaminas",
+            "qtd": 300
+        },
+        {
+            "id": 3,
+            "name": "Arroz Branco",
+            "description": "Arroz tradicional",
+            "qtd": 700
+        },
+        {
+            "id": 4,
+            "name": "Café Regional",
+            "description": "Café da terra de Manaus",
+            "qtd": 200
+        },
+        {
+            "id": 5,
+            "name": "Café Nacional",
+            "description": "Café do Brasil",
+            "qtd": 300
+        },
+        {
+            "id": 6,
+            "name": "Açúcar Comum",
+            "description": "Açúcar refinado do tipo comum",
+            "qtd": 450
+        },
+        {
+            "id": 7,
+            "name": "Açúcar Mascavo",
+            "description": "Açúcar petrificado de cor marrom",
+            "qtd": 500
+        },
+        {
+            "id": 8,
+            "name": "Feijão Carioca",
+            "description": "Feijão específico para fazer baião",
+            "qtd": 200
+        },
+        {
+            "id": 9,
+            "name": "Feijão Preto",
+            "description": "Feijão específico para fazer feijoada",
+            "qtd": 250
+        },
+        {
+            "id": 10,
+            "name": "Sal",
+            "description": "Sal comum",
+            "qtd": 250
+        }
+    ],
+    "fornecedores": [
+        {
+            "id": 1,
+            "company": "Bem-te-vi"
+        },
+        {
+            "id": 2,
+            "company": "BlueVille"
+        },
+        {
+            "id": 3,
+            "company": "Caldo Bom"
+        },
+        {
+            "id": 4,
+            "company": "Kicaldo"
+        },
+        {
+            "id": 5,
+            "company": "Colonial"
+        },
+        {
+            "id": 6,
+            "company": "Camil"
+        },
+        {
+            "id": 7,
+            "company": "Caldo Bom"
+        },
+        {
+            "id": 8,
+            "company": "União"
+        },
+        {
+            "id": 9,
+            "company": "Guarani"
+        },
+        {
+            "id": 10,
+            "company": "Minamel"
+        },
+        {
+            "id": 11,
+            "company": "Itamarati"
+        },
+        {
+            "id": 12,
+            "company": "Namorado"
+        },
+        {
+            "id": 13,
+            "company": "Santa Clara"
+        }
+    ],
+    "prodFornecedor": [
+        {
+            "idProduto": 1,
+            "idFornecedor": 1,
+            "preco": 1000
+        },
+        {
+            "idProduto": 1,
+            "idFornecedor": 2,
+            "preco": 1200
+        },
+        {
+            "idProduto": 1,
+            "idFornecedor": 12,
+            "preco": 850
+        },
+        {
+            "idProduto": 2,
+            "idFornecedor": 2,
+            "preco": 600
+        },
+        {
+            "idProduto": 2,
+            "idFornecedor": 1,
+            "preco": 900
+        },
+        {
+            "idProduto": 2,
+            "idFornecedor": 12,
+            "preco": 850
+        },
+        {
+            "idProduto": 2,
+            "idFornecedor": 8,
+            "preco": 1100
+        },
+        {
+            "idProduto": 3,
+            "idFornecedor": 9,
+            "preco": 500
+        },
+        {
+            "idProduto": 3,
+            "idFornecedor": 11,
+            "preco": 700
+        },
+        {
+            "idProduto": 3,
+            "idFornecedor": 3,
+            "preco": 400
+        },
+        {
+            "idProduto": 5,
+            "idFornecedor": 5,
+            "preco": 900
+        },
+        {
+            "idProduto": 5,
+            "idFornecedor": 13,
+            "preco": 1000
+        },
+        {
+            "idProduto": 6,
+            "idFornecedor": 11,
+            "preco": 1350
+        },
+        {
+            "idProduto": 6,
+            "idFornecedor": 12,
+            "preco": 900
+        },
+        {
+            "idProduto": 6,
+            "idFornecedor": 9,
+            "preco": 600
+        },
+        {
+            "idProduto": 6,
+            "idFornecedor": 10,
+            "preco": 700
+        },
+        {
+            "idProduto": 7,
+            "idFornecedor": 11,
+            "preco": 2000
+        },
+        {
+            "idProduto": 7,
+            "idFornecedor": 8,
+            "preco": 2200
+        },
+        {
+            "idProduto": 7,
+            "idFornecedor": 9,
+            "preco": 2500
+        },
+        {
+            "idProduto": 7,
+            "idFornecedor": 12,
+            "preco": 1800
+        },
+        {
+            "idProduto": 8,
+            "idFornecedor": 3,
+            "preco": 600
+        },
+        {
+            "idProduto": 10,
+            "idFornecedor": 5,
+            "preco": 380
+        }
+    ]
+}
