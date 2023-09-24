@@ -1,5 +1,5 @@
 {
-    "produtos": [
+    "products": [
         {
             "id": 1,
             "name": "Arroz Integral",
@@ -61,7 +61,7 @@
             "qtd": 250
         }
     ],
-    "fornecedores": [
+    "companies": [
         {
             "id": 1,
             "company": "Bem-te-vi"
@@ -115,137 +115,137 @@
             "company": "Santa Clara"
         }
     ],
-    "prodFornecedor": [
+    "prodCompany": [
         {
             "id": 1,
-            "idProduto": 1,
-            "idFornecedor": 1,
+            "idProduct": 1,
+            "idCompany": 1,
             "value": 1000
         },
         {
             "id": 2,
-            "idProduto": 1,
-            "idFornecedor": 2,
+            "idProduct": 1,
+            "idCompany": 2,
             "value": 1200
         },
         {
             "id": 3,
-            "idProduto": 1,
-            "idFornecedor": 12,
+            "idProduct": 1,
+            "idCompany": 12,
             "value": 850
         },
         {
             "id": 4,
-            "idProduto": 2,
-            "idFornecedor": 2,
+            "idProduct": 2,
+            "idCompany": 2,
             "value": 600
         },
         {
             "id": 5,
-            "idProduto": 2,
-            "idFornecedor": 1,
+            "idProduct": 2,
+            "idCompany": 1,
             "value": 900
         },
         {
             "id": 6,
-            "idProduto": 2,
-            "idFornecedor": 12,
+            "idProduct": 2,
+            "idCompany": 12,
             "value": 850
         },
         {
             "id": 7,
-            "idProduto": 2,
-            "idFornecedor": 8,
+            "idProduct": 2,
+            "idCompany": 8,
             "value": 1100
         },
         {
             "id": 8,
-            "idProduto": 3,
-            "idFornecedor": 9,
+            "idProduct": 3,
+            "idCompany": 9,
             "value": 500
         },
         {
             "id": 9,
-            "idProduto": 3,
-            "idFornecedor": 11,
+            "idProduct": 3,
+            "idCompany": 11,
             "value": 700
         },
         {
             "id": 10,
-            "idProduto": 3,
-            "idFornecedor": 3,
+            "idProduct": 3,
+            "idCompany": 3,
             "value": 400
         },
         {
             "id": 11,
-            "idProduto": 5,
-            "idFornecedor": 5,
+            "idProduct": 5,
+            "idCompany": 5,
             "value": 900
         },
         {
             "id": 12,
-            "idProduto": 5,
-            "idFornecedor": 13,
+            "idProduct": 5,
+            "idCompany": 13,
             "value": 1000
         },
         {
             "id": 13,
-            "idProduto": 6,
-            "idFornecedor": 11,
+            "idProduct": 6,
+            "idCompany": 11,
             "value": 1350
         },
         {
             "id": 14,
-            "idProduto": 6,
-            "idFornecedor": 12,
+            "idProduct": 6,
+            "idCompany": 12,
             "value": 900
         },
         {
             "id": 15,
-            "idProduto": 6,
-            "idFornecedor": 9,
+            "idProduct": 6,
+            "idCompany": 9,
             "value": 600
         },
         {
             "id": 16,
-            "idProduto": 6,
-            "idFornecedor": 10,
+            "idProduct": 6,
+            "idCompany": 10,
             "value": 700
         },
         {
             "id": 17,
-            "idProduto": 7,
-            "idFornecedor": 11,
+            "idProduct": 7,
+            "idCompany": 11,
             "value": 2000
         },
         {
             "id": 18,
-            "idProduto": 7,
-            "idFornecedor": 8,
+            "idProduct": 7,
+            "idCompany": 8,
             "value": 2200
         },
         {
             "id": 19,
-            "idProduto": 7,
-            "idFornecedor": 9,
+            "idProduct": 7,
+            "idCompany": 9,
             "value": 2500
         },
         {
             "id": 20,
-            "idProduto": 7,
-            "idFornecedor": 12,
+            "idProduct": 7,
+            "idCompany": 12,
             "value": 1800
         },
         {
             "id": 21,
-            "idProduto": 8,
-            "idFornecedor": 3,
+            "idProduct": 8,
+            "idCompany": 3,
             "value": 600
         },
         {
             "id": 22,
-            "idProduto": 10,
-            "idFornecedor": 5,
+            "idProduct": 10,
+            "idCompany": 5,
             "value": 380
         }
     ]
