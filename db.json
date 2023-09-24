@@ -117,111 +117,133 @@
     ],
     "prodFornecedor": [
         {
+            "id": 1,
             "idProduto": 1,
             "idFornecedor": 1,
             "preco": 1000
         },
         {
+            "id": 2,
             "idProduto": 1,
             "idFornecedor": 2,
             "preco": 1200
         },
         {
+            "id": 3,
             "idProduto": 1,
             "idFornecedor": 12,
             "preco": 850
         },
         {
+            "id": 4,
             "idProduto": 2,
             "idFornecedor": 2,
             "preco": 600
         },
         {
+            "id": 5,
             "idProduto": 2,
             "idFornecedor": 1,
             "preco": 900
         },
         {
+            "id": 6,
             "idProduto": 2,
             "idFornecedor": 12,
             "preco": 850
         },
         {
+            "id": 7,
             "idProduto": 2,
             "idFornecedor": 8,
             "preco": 1100
         },
         {
+            "id": 8,
             "idProduto": 3,
             "idFornecedor": 9,
             "preco": 500
         },
         {
+            "id": 9,
             "idProduto": 3,
             "idFornecedor": 11,
             "preco": 700
         },
         {
+            "id": 10,
             "idProduto": 3,
             "idFornecedor": 3,
             "preco": 400
         },
         {
+            "id": 11,
             "idProduto": 5,
             "idFornecedor": 5,
             "preco": 900
         },
         {
+            "id": 12,
             "idProduto": 5,
             "idFornecedor": 13,
             "preco": 1000
         },
         {
+            "id": 13,
             "idProduto": 6,
             "idFornecedor": 11,
             "preco": 1350
         },
         {
+            "id": 14,
             "idProduto": 6,
             "idFornecedor": 12,
             "preco": 900
         },
         {
+            "id": 15,
             "idProduto": 6,
             "idFornecedor": 9,
             "preco": 600
         },
         {
+            "id": 16,
             "idProduto": 6,
             "idFornecedor": 10,
             "preco": 700
         },
         {
+            "id": 17,
             "idProduto": 7,
             "idFornecedor": 11,
             "preco": 2000
         },
         {
+            "id": 18,
             "idProduto": 7,
             "idFornecedor": 8,
             "preco": 2200
         },
         {
+            "id": 19,
             "idProduto": 7,
             "idFornecedor": 9,
             "preco": 2500
         },
         {
+            "id": 20,
             "idProduto": 7,
             "idFornecedor": 12,
             "preco": 1800
         },
         {
+            "id": 21,
             "idProduto": 8,
             "idFornecedor": 3,
             "preco": 600
         },
         {
+            "id": 22,
             "idProduto": 10,
             "idFornecedor": 5,
             "preco": 380
